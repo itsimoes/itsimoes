@@ -1,7 +1,7 @@
   
   ## Olá! Eu sou Ítalo Simões, desenvolvedor Front-End!
   
-  - Desenvolvo aplicacoes utilizando ReactJS, ANGULARJS, Bootstratp, Jvavascript, Typescript, HTML5 e CSS3.
+  - Desenvolvo aplicacoes utilizando ReactJS, AngularJS, Bootstratp, Jvavascript, Typescript, HTML5 e CSS3.
   
   <a href="https://github.com/itsimoes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
