@@ -1,5 +1,5 @@
   
-  ## Olá! Eu sou Ítalo Simões, desenvolvedor Front-End!
+  ## Olá! Eu sou Ítalo Simões, desenvolvedor Front-end!
   
   - Desenvolvo aplicacoes utilizando ReactJS, AngularJS, Bootstrap, Javascript, Typescript, HTML5 e CSS3.
   
