@@ -1,5 +1,5 @@
   
-  ## Olá! Eu sou Ítalo Simões, Desenvolvedor Web!
+  ## Olá! Eu sou Ítalo Simões, Desenvolvedor Web.
   
   - Desenvolvo aplicações utilizando React, Angular, Bootstrap, Javascript, Typescript, HTML5 e CSS3. Além de possuir conhecimentos em outras linguagens, como Python , C# e C++.
   
